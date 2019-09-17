@@ -19,3 +19,7 @@ Or, edit app.js and set change the following line:
 var port = 7002;
 ```
 
+Then, you can start the server:
+```
+# node app.js
+```
