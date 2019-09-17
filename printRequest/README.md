@@ -1,5 +1,5 @@
 # Simple Server 
-This is a simple server that logs the requests to the console. You can use it, for instance, as the webhook server for a Twilio callback, in order to see the requests.
+This is a simple server that logs HTTP POST bodies to the console. You can use it, for instance, as the webhook server for a Twilio callback, in order to see the requests.
 
 ## Requirements
 You must install express
