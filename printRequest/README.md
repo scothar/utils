@@ -16,6 +16,6 @@ By default, the server will listen on port 7002. To change this, you can set the
 
 Or, edit app.js and set change the following line:
 ```
-var port=7002
+var port = 7002;
 ```
 
