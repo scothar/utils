@@ -23,3 +23,10 @@ Then, you can start the server:
 ```
 # node app.js
 ```
+
+## Making it public
+If you want to use simpleServer as a webhook server for Twilio, you'll need to expose the service to the internet. One way of doing that is by using ngrok (see ngrok.com for details). You can start ngrok by:
+```
+# ngrok http 7002
+```
+
